@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhetorik420
 - 👀 I’m interested in ... Game Design, Level Design, Project Management, Gameplay Mechanics.
-- 🌱 I’m currently learning ... Jiry, Confluence, Maya, Asperite, UE4+5, GoDoT, AutoDesk applications too.
+- 🌱 I’m currently learning ... Jira, Confluence, Maya, Asperite, UE4+5, GoDoT, AutoDesk applications too.
 - 💞️ I’m looking to collaborate on ... Game Jams, side projects, 2-D platformers, 3D open-world (RPG & adventure), turn-based games, etc.
 - 📫 How to reach me ... 
 - www.twitch.tv/dopesmoked
